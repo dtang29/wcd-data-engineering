@@ -3,7 +3,7 @@
 A repo to document my learnings from the weclouddata bootcamp. Started this journey on July 25th, 2023.
 
 Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
-* [Week 1: Linux and Bash + AWS, EC2, and S3](#week-1-linux-aws)
+* [Week 1: Linux and Bash + AWS, EC2, and S3](#week_1_linux_aws)
 * [Week 2: Docker Basic + Docker Compose](#week-2-docker)
 * [Week 3: Python in Data Engineering + Lambda](#week-3-data-warehouse)
 * [Week 4: Snowflake + Airbyte](#week-4-analytics-engineering)
@@ -56,7 +56,7 @@ To make discussions in Slack more organized:
 > **Note:** NYC TLC changed the format of the data we use to parquet. But you can still access 
 > the csv files [here](https://github.com/DataTalksClub/nyc-tlc-data).
 
-### [Week 1: Introduction & Prerequisites](week-1-linux-aws)
+### [Week 1: Introduction & Prerequisites](week_1_linux_aws)
 
 * Course overview
 * Introduction to GCP
