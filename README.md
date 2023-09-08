@@ -8,10 +8,10 @@ Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
 * [Week 1: Linux and Bash + AWS, EC2, and S3](#week-1-linux--aws)
 * [Week 2: Docker Basic + Docker Compose](#week-2-docker)
 * [Week 3: Python for Data Engineering + Lambda](#week-3-data-warehouse)
-* [Week 4: Snowflake + Airbyte](#week-4-analytics-engineering)
-* [Week 5: Data Warehouse + Data Modeling/ETL](#week-5-batch-processing)
-* [Week 6: Advanced SQL for ETL + Data Loading](#week-6-streaming)
-* [Week 7: Project Demo: Data Modeling and ETL](#week-7-8--9-project)
+* [Week 4: Snowflake + Airbyte](#week-4-snowflake-airbyte)
+* [Week 5: Data Warehouse + Data Modeling/ETL](#week-5-data-warehouse-data-model)
+* [Week 6: Advanced SQL for ETL + Data Loading](#week-6-advanced-sql-data-load)
+* [Week 7: Project Demo: Data Modeling and ETL](#week-7-demo-data-model-etl)
 * [Week 8: DBT](#week-8-dbt)
 * [Week 9: Metabase](#week-9-metabase)
 
@@ -64,7 +64,7 @@ Phase 3: TBD
 ### [Week 8: DBT](phase_1_analytical_engineering/dbt)
 
 
-### [Week 9: DBT](phase_1_analytical_engineering/metabase)
+### [Week 9: Metabase](phase_1_analytical_engineering/metabase)
 
 
 
