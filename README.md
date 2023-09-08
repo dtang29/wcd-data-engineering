@@ -1,6 +1,6 @@
 # WeCloudData Data Engineering Bootcamp Journey
 
-A repo to document my learnings from the weclouddata bootcamp. Started this journey on July 25th, 2023.
+A repo to document my learnings from the weclouddata bootcamp.
 
 Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
 * [Week 1: Linux and Bash + AWS, EC2, and S3](#week_1_linux_aws)
@@ -13,50 +13,9 @@ Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
 * [Week 8: DBT](#week-8-dbt)
 * [Week 9: Metabase](#week-9-metabase)
 
+* **Start**: 25 July 2023
 
-## Taking the course
-
-### 2023 Cohort
-
-* **Start**: 16 January 2023 (Monday)
-* **Registration link**: https://airtable.com/shr6oVXeQvSI5HuWD
-* Subscribe to our [public Google Calendar](https://calendar.google.com/calendar/?cid=ZXIxcjA1M3ZlYjJpcXU0dTFmaG02MzVxMG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (it works from Desktop only)
-
-### Self-paced mode
-
-All the materials of the course are freely available, so that you 
-can take the course at your own pace 
-
-* Follow the suggested syllabus (see below) week by week
-* You don't need to fill in the registration form. Just start watching the videos and join Slack 
-* Check [FAQ](https://docs.google.com/document/d/19bnYs80DwuUimHM65UV3sylsCn2j1vziPOwzBwQrebw/edit?usp=sharing) if you have problems
-* If you can't find a solution to your problem in FAQ, ask for help in Slack
-
-
-### 2022 Cohort
-
-* **Start**: 17 January 2022
-* **Registration link**: https://airtable.com/shr6oVXeQvSI5HuWD
-* [Leaderboard](https://docs.google.com/spreadsheets/d/e/2PACX-1vR9oQiYnAVvzL4dagnhvp0sngqagF0AceD0FGjhS-dnzMTBzNQIal3-hOgkTibVQvfuqbQ69b0fvRnf/pubhtml)
-* Subscribe to our [public Google Calendar](https://calendar.google.com/calendar/?cid=ZXIxcjA1M3ZlYjJpcXU0dTFmaG02MzVxMG9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) (it works from Desktop only)
-
-
-### Asking for help in Slack
-
-The best way to get support is to use [DataTalks.Club's Slack](https://datatalks.club/slack.html). Join the [`#course-data-engineering`](https://app.slack.com/client/T01ATQK62F8/C01FABYF2RG) channel.
-
-To make discussions in Slack more organized:
-
-* Follow [these recommendations](asking-questions.md) when asking for help
-* Read the [DataTalks.Club community guidelines](https://datatalks.club/slack/guidelines.html)
-
-
-## Syllabus
-
-> **Note:** NYC TLC changed the format of the data we use to parquet. But you can still access 
-> the csv files [here](https://github.com/DataTalksClub/nyc-tlc-data).
-
-### [Week 1: Introduction & Prerequisites](week_1_linux_aws)
+### [Week 1: Introduction & Prerequisites](phase_1_analytical_engineering/week_1_linux_aws)
 
 * Course overview
 * Introduction to GCP
