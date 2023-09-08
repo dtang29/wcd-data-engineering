@@ -3,7 +3,7 @@
 A repo to document my learnings from the weclouddata bootcamp.
 
 Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
-* [Week 1: Linux and Bash + AWS, EC2, and S3](#week-1-introduction--prerequisites)
+* [Week 1: Linux and Bash + AWS, EC2, and S3](#week-1-linux--aws)
 * [Week 2: Docker Basic + Docker Compose](#week-2-docker)
 * [Week 3: Python in Data Engineering + Lambda](#week-3-data-warehouse)
 * [Week 4: Snowflake + Airbyte](#week-4-analytics-engineering)
@@ -13,9 +13,33 @@ Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
 * [Week 8: DBT](#week-8-dbt)
 * [Week 9: Metabase](#week-9-metabase)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+test
+
+
+
+
+
+
+
+
+
 * **Start**: 25 July 2023
 
-### [Week 1: Introduction & Prerequisites](phase_1_analytical_engineering/week_1_linux_aws)
+### [Week 1: Linux & AWS](phase_1_analytical_engineering/week_1_linux_aws)
 
 * Course overview
 * Introduction to GCP
