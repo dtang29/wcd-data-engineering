@@ -14,7 +14,7 @@ Phase 1: Analytical Engineering (7/25/2023 - 9/30/2023) - 3 months
 * [Week 9: Metabase](#week-9-metabase)
 
 
-* **Start**: 25 July 2023
+**Start**: 25 July 2023
 
 ### [Week 1: Linux & AWS](phase_1_analytical_engineering/week_1_linux_aws)
 
